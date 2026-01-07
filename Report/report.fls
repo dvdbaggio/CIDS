@@ -1,6 +1,6 @@
-PWD /Users/davide/UniPD/CPS/MIO PROGETTO/Report
+PWD /Users/davide/UniPD/CPS/CIDS/Report
 INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /Users/davide/UniPD/CPS/MIO PROGETTO/Report/report.tex
+INPUT /Users/davide/UniPD/CPS/CIDS/Report/report.tex
 OUTPUT report.log
 INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
 INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -189,27 +189,27 @@ INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/
 INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT /Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmti12.tfm
-INPUT ../cids fabrication.png
-INPUT ../cids fabrication.png
-INPUT ../cids fabrication.png
-INPUT ../cids fabrication.png
-INPUT ../cids fabrication.png
-INPUT ../cids fabrication.png
-INPUT ../cids fabrication.png
-INPUT ../cids suspension.png
-INPUT ../cids suspension.png
-INPUT ../cids suspension.png
-INPUT ../cids suspension.png
-INPUT ../cids suspension.png
-INPUT ../cids suspension.png
-INPUT ../cids suspension.png
-INPUT ../cids masquerade.png
-INPUT ../cids masquerade.png
-INPUT ../cids masquerade.png
-INPUT ../cids masquerade.png
-INPUT ../cids masquerade.png
-INPUT ../cids masquerade.png
-INPUT ../cids masquerade.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_fabrication.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_suspension.png
+INPUT ../CIDS/cids_masquerade.png
+INPUT ../CIDS/cids_masquerade.png
+INPUT ../CIDS/cids_masquerade.png
+INPUT ../CIDS/cids_masquerade.png
+INPUT ../CIDS/cids_masquerade.png
+INPUT ../CIDS/cids_masquerade.png
+INPUT ../CIDS/cids_masquerade.png
 INPUT report.aux
 INPUT ./report.out
 INPUT ./report.out

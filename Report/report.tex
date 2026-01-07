@@ -57,7 +57,7 @@ The experiments were conducted on a Linux Ubuntu 25.10 virtual machine using Ins
     \item \textbf{Interface}: Virtual CAN (\texttt{vcan0}).
     \item \textbf{Logic}: Python scripts utilizing the \texttt{can} library.
 \end{itemize}
-To reproduce the attacks the user has to clone the ICSim repository, \texttt{cd ICSim/} and move there the following files:
+To reproduce the attacks the user has to clone this project repository \cite{project} and also the ICSim one \cite{icsim}. Then \texttt{cd ICSim/} and move there the following files:
 \begin{itemize}
     \item \texttt{ECU20ms.py},
     \item \texttt{attack\_fabrication.py},
@@ -110,6 +110,8 @@ The implementation confirms that CIDS is effective in a simulated environment. T
 K. T. Cho and K. G. Shin, "Fingerprinting electronic control units for vehicle intrusion detection," in \textit{Proceedings of the 25th USENIX Conference on Security Symposium (SEC'16)}, Austin, TX, USA: USENIX Association, 2016, pp. 911--927.
 \bibitem{icsim}
 ICSim GitHub Repository \url{https://github.com/zombieCraig/ICSim}.
+\bibitem{project}
+Project Repository \url{https://github.com/dvdbaggio/CIDS}
 \end{thebibliography}
 
 \newpage
@@ -118,7 +120,7 @@ ICSim GitHub Repository \url{https://github.com/zombieCraig/ICSim}.
 \section{CIDS Analysis Plots}
 \begin{figure*}[h]
     \centering
-    \includegraphics[width=0.95\textwidth]{../cids fabrication.png}
+    \includegraphics[width=0.95\textwidth]{../CIDS/cids_fabrication.png}
     \caption{CIDS Analysis: Fabrication Attack. Note the exponential explosion of the CUSUM value.}
     \label{fig:fabrication}
 \end{figure*}
@@ -127,7 +129,7 @@ ICSim GitHub Repository \url{https://github.com/zombieCraig/ICSim}.
 
 \begin{figure*}[h]
     \centering
-    \includegraphics[width=0.95\textwidth]{../cids suspension.png}
+    \includegraphics[width=0.95\textwidth]{../CIDS/cids_suspension.png}
     \caption{CIDS Analysis: Suspension Attack. Timing jitter caused by DoS results in logarithmic CUSUM growth.}
     \label{fig:suspension}
 \end{figure*}
@@ -136,7 +138,7 @@ ICSim GitHub Repository \url{https://github.com/zombieCraig/ICSim}.
 
 \begin{figure*}[h]
     \centering
-    \includegraphics[width=0.95\textwidth]{../cids masquerade.png}
+    \includegraphics[width=0.95\textwidth]{../CIDS/cids_masquerade.png}
     \caption{CIDS Analysis: Masquerade Attack. The linear drift identifies the hardware clock discrepancy.}
     \label{fig:masquerade}
 \end{figure*}

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.17)  7 JAN 2026 18:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.11.17)  7 JAN 2026 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/davide/UniPD/CPS/MIO PROGETTO/Report/report.tex"
-(/Users/davide/UniPD/CPS/MIO PROGETTO/Report/report.tex
+**/Users/davide/UniPD/CPS/CIDS/Report/report.tex
+(/Users/davide/UniPD/CPS/CIDS/Report/report.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-10-24>
 (/Users/davide/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
@@ -463,6 +463,9 @@ Underfull \hbox (badness 5924) in paragraph at lines 81--82
  []
 
 
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+
 
 
 Underfull \hbox (badness 1152) in paragraph at lines 94--95
@@ -502,24 +505,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 [3
 
 ]
-<../cids fabrication.png, id=88, 867.24pt x 578.16pt>
-File: ../cids fabrication.png Graphic file (type png)
-<use ../cids fabrication.png>
-Package pdftex.def Info: ../cids fabrication.png  used on input line 121.
+<../CIDS/cids_fabrication.png, id=93, 867.24pt x 578.16pt>
+File: ../CIDS/cids_fabrication.png Graphic file (type png)
+<use ../CIDS/cids_fabrication.png>
+Package pdftex.def Info: ../CIDS/cids_fabrication.png  used on input line 123.
 (pdftex.def)             Requested size: 480.59395pt x 320.39738pt.
-<../cids suspension.png, id=90, 867.24pt x 578.16pt>
-File: ../cids suspension.png Graphic file (type png)
-<use ../cids suspension.png>
-Package pdftex.def Info: ../cids suspension.png  used on input line 130.
+<../CIDS/cids_suspension.png, id=95, 867.24pt x 578.16pt>
+File: ../CIDS/cids_suspension.png Graphic file (type png)
+<use ../CIDS/cids_suspension.png>
+Package pdftex.def Info: ../CIDS/cids_suspension.png  used on input line 132.
 (pdftex.def)             Requested size: 480.59395pt x 320.39738pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../cids masquerade.png, id=91, 867.24pt x 578.16pt>
-File: ../cids masquerade.png Graphic file (type png)
-<use ../cids masquerade.png>
-Package pdftex.def Info: ../cids masquerade.png  used on input line 139.
+<../CIDS/cids_masquerade.png, id=96, 867.24pt x 578.16pt>
+File: ../CIDS/cids_masquerade.png Graphic file (type png)
+<use ../CIDS/cids_masquerade.png>
+Package pdftex.def Info: ../CIDS/cids_masquerade.png  used on input line 141.
 (pdftex.def)             Requested size: 480.59395pt x 320.39738pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -528,11 +531,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4
 
- <../cids fabrication.png>]
+ <../CIDS/cids_fabrication.png>]
 
-[5 <../cids suspension.png>]
+[5 <../CIDS/cids_suspension.png>]
 
-[6 <../cids masquerade.png>] (report.aux)
+[6 <../CIDS/cids_masquerade.png>] (report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-10-24>
@@ -541,17 +544,17 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: B9B66194A84E93950F2E806C75DF6BB2;1477.
  ) 
 Here is how much of TeX's memory you used:
- 11774 strings out of 469811
- 187152 string characters out of 2468004
- 615886 words of memory out of 3000000
- 40231 multiletter control sequences out of 15000+600000
+ 11776 strings out of 469811
+ 187220 string characters out of 2468004
+ 614915 words of memory out of 3000000
+ 40232 multiletter control sequences out of 15000+600000
  637506 words of font info for 78 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,10n,79p,689b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,10n,79p,679b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/davide/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></Users/davide/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (6 pages, 700599 bytes).
+Output written on report.pdf (6 pages, 696908 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  104 words of extra memory for PDF output out of 10000 (max. 10000000)
 
