@@ -1,2 +1,12 @@
 .DS_Store
+*.aux
+*.bbl
+*.blg
+*.log
+*.fls
+*fdb_latexmk
+*synctex.gz
+*.out
+
+!dump*.log
 Dumps/dump_suspension_attack.log
